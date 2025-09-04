@@ -1,4 +1,4 @@
-Explore Já
+# Explore Já
 Um aplicativo que ajuda você a explorar novos destinos, encontrar os melhores pontos turísticos e compartilhar suas experiências com outros viajantes. Com o Explore Já, planejar sua próxima aventura ficou mais fácil e divertido.
 
 ✨ Recursos
