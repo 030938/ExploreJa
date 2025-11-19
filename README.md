@@ -18,7 +18,8 @@ Informações do Ponto Turístico: Cada ponto turístico tem uma página complet
 
 Perfil do Usuário: Todos os pontos turísticos favoritados por você, ficarão visíveis aqui.
 
-🛠️ Tecnologias utilizadas:
+🛠️ Tecnologias utilizadas
+
 Front-end: HTML, CSS, Brootstrap, JavaScript;
 
 Back-end: PHP e;
