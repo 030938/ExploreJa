@@ -32,6 +32,6 @@ Banco de Dados: MySQL.
 
 - **Heloisa Fernandes de Oliveira**
 
-- **Matheus Cornélio Amorim e**
+- **Matheus Cornélio Amorim**
 
 - **Renan Leme de Freitas**
