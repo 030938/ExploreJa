@@ -26,8 +26,12 @@ Back-end: PHP e;
 
 Banco de Dados: MySQL.
 
-🧑‍💻 Desenvolvedores
-Antonella Cobianchi Prucoli;
-Heloisa Fernandes de Oliveira;
-Matheus Cornélio Amorim e;
-Renan Leme de Freitas.
+🧑‍💻 Desenvolvedores:
+
+# Antonella Cobianchi Prucoli;
+
+# Heloisa Fernandes de Oliveira;
+
+# Matheus Cornélio Amorim e;
+
+# Renan Leme de Freitas.
