@@ -22,7 +22,7 @@ Perfil do Usuário: Todos os pontos turísticos favoritados por você, ficarão 
 
 Front-end: HTML, CSS, Brootstrap, JavaScript.
 
-Back-end: PHP e.
+Back-end: PHP.
 
 Banco de Dados: MySQL.
 
