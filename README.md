@@ -20,8 +20,13 @@ Perfil do Usuário: Todos os pontos turísticos favoritados por você, ficarão 
 
 🛠️ Tecnologias utilizadas:
 Front-end: HTML, CSS, Brootstrap, JavaScript;
+
 Back-end: PHP e;
+
 Banco de Dados: MySQL.
 
 🧑‍💻 Desenvolvedores
-Antonella Cobianchi Prucoli, Heloisa Fernandes de Oliveira, Matheus Cornélio Amorim e Renan Leme de Freitas.
+Antonella Cobianchi Prucoli;
+Heloisa Fernandes de Oliveira;
+Matheus Cornélio Amorim e;
+Renan Leme de Freitas.
