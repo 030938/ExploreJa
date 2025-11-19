@@ -28,10 +28,10 @@ Banco de Dados: MySQL.
 
 🧑‍💻 Desenvolvedores:
 
-# Antonella Cobianchi Prucoli;
+- **Antonella Cobianchi Prucoli;**
 
-# Heloisa Fernandes de Oliveira;
+- **Heloisa Fernandes de Oliveira;**
 
-# Matheus Cornélio Amorim e;
+- **Matheus Cornélio Amorim e;**
 
-# Renan Leme de Freitas.
+- **Renan Leme de Freitas.**
