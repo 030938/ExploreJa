@@ -1,38 +1,27 @@
 # Explore Já
-Um aplicativo que ajuda você a explorar novos destinos, encontrar os melhores pontos turísticos e compartilhar suas experiências com outros viajantes. Com o Explore Já, planejar sua próxima aventura ficou mais fácil e divertido.
+É um plicativo que ajuda você a explorar novos destinos, encontrar os melhores pontos turísticos e compartilhar suas experiências com outros viajantes. Com o Explore Já, planejar sua próxima aventura ficou mais fácil e divertido.
 
 ✨ Recursos
-Pesquisa por Localização: Encontre pontos turísticos em qualquer cidade e estado.
+Pesquisa por Localização: Encontre pontos turísticos nas cinco principais cidades de São Paulo:
+
+- Campinas;
+- Riberão Preto;
+- São Paulo;
+- Sorocaba e;
+- Santos;
 
 Filtros por Categoria: Refine sua busca por categorias de entretenimento como Museus, Parques, Teatros e muito mais.
 
-Avaliações e Feedbacks: Os resultados são exibidos em ordem decrescente de avaliação. Você pode dar notas (de 1 a 5) e escrever feedbacks detalhados sobre os locais que visitou.
+Avaliações e Feedbacks: É possível favoritar e escrever feedbacks detalhados sobre os locais que visitou ou têm interesse em visitar.
 
-Informações Detalhadas: Cada ponto turístico tem uma página completa com nome, horário, atrações, preços, endereço, formas de acesso, avaliações e comentários de outros usuários.
+Informações do Ponto Turístico: Cada ponto turístico tem uma página completa com nome, horário, atrações, preços, endereço, formas de acesso, avaliações, mapa com a localização e comentários de outros usuários.
 
-Perfil do Usuário: Crie seu perfil para organizar suas viagens. Salve lugares em duas listas: "Locais Visitados" e "Locais Desejados".
+Perfil do Usuário: Todos os pontos turísticos favoritados por você, ficarão visíveis aqui.
 
-🛠️ Tecnologias
-Front-end: HTML, CSS, JavaScript
-
-Back-end: PHP
-
-Banco de Dados: MySQL
-
-API: Google Places API
+🛠️ Tecnologias utilizadas:
+Front-end: HTML, CSS, Brootstrap, JavaScript;
+Back-end: PHP e;
+Banco de Dados: MySQL.
 
 🧑‍💻 Desenvolvedores
-Antonella Cobianchi Prucoli
-
-Heloisa Fernandes de Oliveira
-
-Matheus Cornélio Amorim
-
-Renan Leme de Freitas
-
-
-
-
-
-
-
+Antonella Cobianchi Prucoli, Heloisa Fernandes de Oliveira, Matheus Cornélio Amorim e Renan Leme de Freitas.
